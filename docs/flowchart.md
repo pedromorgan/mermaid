@@ -2,7 +2,7 @@
 
 # Flowcharts - Basic Syntax
 
-All Flowcharts are composed of **nodes**, the geometric shapes and **edges**, the arrows or lines. The mermaid code defines the way that these **nodes** and **edges** are made and interact.
+All Flowcharts are composed of, **nodes** as the geometric shapes and, **edges** as the arrows or lines. The mermaid code defines the way that these **nodes** and **edges** are made and interact.
 
 It can also accommodate different arrow types, multi directional arrows, and linking to and from subgraphs.
 
